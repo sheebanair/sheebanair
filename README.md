@@ -42,7 +42,7 @@
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/ReactNative-282C34?logo=next.js&logoColor=FFFFFF" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
 &nbsp;
 
 
