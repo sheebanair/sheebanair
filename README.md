@@ -57,7 +57,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=02569B" alt="Dart logo" title="Dart" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/ReactNative-282C34?logo=next.js&logoColor=FFFFFF" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/ReactNative-282C34?logo=reactnative&logoColor=FFFFFF" alt="React Native logo" title="React Native" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=FFFFFF" alt="Nginx logo" title="Nginx" height="25" />][learning_now_anchor]
 &nbsp;
 
 
@@ -71,9 +73,7 @@
 &nbsp;
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sheebanair/)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
