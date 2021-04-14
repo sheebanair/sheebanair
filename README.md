@@ -62,8 +62,7 @@
 [<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=FFFFFF" alt="Nginx logo" title="Nginx" height="25" />][learning_now_anchor]
 &nbsp;
 
-👾
-##  <img src="dhttps://gove.org/wp-content/uploads/2018/01/learning-icon.png"> What I am interested in learning at some point
+## 🌱 What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
