@@ -1,4 +1,4 @@
-<h2> Hello There! :wave::skin-tone-4:<br>
+<h2> Hello There! :wave skin-tone-4: <br>
  I'm Sheeba Nair and I am a Full Stack Software Engineer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/232/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png" width="30" height="30"> <br>
  </ h2>
  <br>
