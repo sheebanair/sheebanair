@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputer-gif-artist-code-fedryX7dMGMe6lgqDm&psig=AOvVaw0-YYtNXzgKv9Va2Q_TcyLe&ust=1618441688994000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCPiOpaSr_O8CFQAAAAAdAAAAABDEAQ" alt="Logo" width="90" height="90">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Logo" width="90" height="90">
   </a>
 </p>
 <!--
