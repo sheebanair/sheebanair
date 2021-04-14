@@ -33,8 +33,17 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
 <a name="learning-next"></a>
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=47A248" alt="MySQL logo" title="MySQL" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=47A248" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AmazonAWS-282C34?logo=amazonaws&logoColor=47A248" alt="AmazonAWS logo" title="AmazonAWS" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=47A248" alt="React logo" title="React" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=47A248" alt="Docker logo" title="Docker" height="25" />][learning_next_anchor]
+&nbsp;
+
 ![MySQL](https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c) ![Amazon AWS](https://camo.githubusercontent.com/1c371748f30438eafd069cd2e55f401a4bdc5b43cadc247324fb7785333e95ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773) ![Postman](https://camo.githubusercontent.com/cf47f22e684a7deb3fe00783eec8e7407be43a25da81cdecc270d6ffc5bd38e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e) ![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974) ![React](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465) ![Webpack](https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465) ![Docker](https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 
 
@@ -52,7 +61,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
-
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=E10098" alt="TypeScript logo" title="TypeScript" height="25" />][learning_next_anchor]
+&nbsp;
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
