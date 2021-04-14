@@ -70,7 +70,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=E10098" alt="TypeScript logo" title="TypeScript" height="25" />][learning_next_anchor]
 &nbsp;
-## 🔍  Where to find me
+## 📫 Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/sheebanair/)
 
